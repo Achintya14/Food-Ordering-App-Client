@@ -1,2 +1,3 @@
 # Food-Ordering-App-Client
-A food ordering app for client
+This app can be used to order food and is a cilent side Application.
+Server Side Application work in progress
